@@ -1,0 +1,1 @@
+git+https://github.com/Baldanos/rd6006.git@0b00e1dd76d9b7ceac3f83016f3867932e5b75db#egg=rd6006
